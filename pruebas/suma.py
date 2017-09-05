@@ -7,3 +7,4 @@ b = int(input())
 
 c = Suma(a, b)
 print(c)
+print("hola")
